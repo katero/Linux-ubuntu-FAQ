@@ -1,0 +1,4 @@
+在ubuntu安装好以后，使用无线的时候会出现这个问题，网上关于这个问题的提问很多，首先说下我自己的解决方案：
+terminal update，然后在图形界面的software and updates-addtional drivers,出现了新的驱动选项，很幸运，里面有我需要的:broadcom bcm43142，安装重启，搞定。
+其他的解决方法，有机会也要试一试。
+
